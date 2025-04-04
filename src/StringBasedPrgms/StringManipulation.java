@@ -59,7 +59,7 @@ public class StringManipulation {
         int b = 200;
 
         System.out.println(x+y); //"HeyVarun"
-        System.out.println(a+b); //300 is what we get
+        System.out.println(a+b); //300 ssdis what we get
         System.out.println(x+y); //"HeyVarun100200"
         System.out.println(a+b+x+y); // "300HeyVarun"
         System.out.println(x+y+(a+b)); //"HeyVarun300"
