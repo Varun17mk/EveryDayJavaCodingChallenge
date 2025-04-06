@@ -11,6 +11,5 @@ public class Remove_Junk_Characters {
         String s="Hey !@#$% Varun*() 1324567891235*-++";
         s=s.replaceAll("[^a-zA-Z0-9]","");
         System.out.println(s);
-
     }
 }
